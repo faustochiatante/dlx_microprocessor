@@ -15,7 +15,10 @@
    version="1.1"
    id="svg2036"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="DLX_SCHEM.svg">
+   sodipodi:docname="DLX_SCHEM.svg"
+   inkscape:export-filename="C:\Users\fausto\Documents\UNI\MicroElectronics\dlx_processor\Schematics\DLX_SCHEM.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2030">
     <marker
@@ -166,9 +169,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="518.24688"
-     inkscape:cy="365.61998"
+     inkscape:zoom="2.8"
+     inkscape:cx="386.20735"
+     inkscape:cy="261.79474"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -346,5 +349,29 @@
        d="M 76.729166,244.08334 H 13.229167 V 193.8125 H 23.8125"
        id="path3515"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.18947074px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.895832,230.06042 -2.645834,-1.32292 -2.645833,1.32292 h 1.322917 v 2.11667 h -1.322917 l 2.645988,1.32282 2.645679,-1.32282 h -1.322917 v -2.11667 z"
+       id="path3511-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <rect
+       style="opacity:1;fill:#de8787;fill-opacity:0;stroke:#000000;stroke-width:0.25999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect70"
+       width="14.552083"
+       height="11.90625"
+       x="87.57708"
+       y="216.56667" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="91.54583"
+       y="222.91666"
+       id="text74"><tspan
+         sodipodi:role="line"
+         id="tspan72"
+         x="91.54583"
+         y="222.91666"
+         style="stroke-width:0.26458332">DRAM</tspan></text>
   </g>
 </svg>
